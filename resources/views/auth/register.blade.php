@@ -66,7 +66,6 @@
 
                             <div class="col-md-6">
                                 <select name="role" class="form-control" >
-                                    <option value="admin">Admin</option>
                                     <option value="company">Company</option>
                                     <option value="customer">Customer</option>
                                 </select>
